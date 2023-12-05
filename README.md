@@ -30,7 +30,7 @@ To use the application, simply open the `index.html` file in a web browser. Clic
 
 ## Known Issues
 
-- **Incomplete Functionality**: Please note that the quiz is not completely finished. Certain features or interactions may be missing or need refinement.
+- **Incomplete Functionality**: Please note that the quiz is not completely finished. Certain features including the highscores page have yet to be implemented
 
 ## Future Enhancements
 
